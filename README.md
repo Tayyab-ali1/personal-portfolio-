@@ -12,4 +12,4 @@ It is designed for potential employers and clients to view my work.
    git clone https://github.com/username/personal-portfolio.git 2. Open the folder in a browser.
 3. All pages should work locally as they appear on GitHub Pages.
 ## Live Version
-View the website here: [Live Portfolio](https://username.github.io/personalportfolio/)
+View the website here: [Live Portfolio](https://tayyab-ali1.github.io/portfoliio/)
